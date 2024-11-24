@@ -76,7 +76,7 @@ header{
     display: block;
 } 
 #lading{
-    background-image: url(/phto/landing.jpg);
+    background-image: url(./phto/landing.jpg);
         background-size: cover;
         height: calc(100vh - 64px);
         position: relative;
